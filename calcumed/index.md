@@ -1,5 +1,5 @@
 ---
-title: Política de Privacidad - Mi App Genial
+title: Privacy Policy - Calcumed
 ---
 # Privacy Policy for Calcumed
 
@@ -32,5 +32,5 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 ## 7. Contact Us
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at:
-* **Email:** [policy@cirugiageneral.es]
+* **Email:** [policies@cirugiageneral.es]
 
