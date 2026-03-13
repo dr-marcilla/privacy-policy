@@ -1,2 +1,13 @@
-# privacy-policy
-Official Privacy Policies for my Google Play Store applications. Hosted via GitHub Pages for transparency and public access.
+# Legal Documents and Privacy Policies
+
+This repository hosts the official Privacy Policies for my Android applications published on the Google Play Store.
+
+## Applications
+
+* **[Nombre de tu App 1]**: [Link a la política](https://dr-marcilla.github.io/politicas-privacidad/calcumed/)
+
+## Compliance
+These documents are provided to ensure transparency regarding data collection and privacy practices, in accordance with Google Play Developer Program Policies and international regulations (GDPR, CCPA).
+
+---
+*Maintained by [Dr.Marcilla]*
