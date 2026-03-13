@@ -4,7 +4,7 @@ This repository hosts the official Privacy Policies for my Android applications 
 
 ## Applications
 
-* **[Nombre de tu App 1]**: [Link a la política](https://dr-marcilla.github.io/politicas-privacidad/calcumed/)
+* **CalcuMed**: [Link a la política](https://dr-marcilla.github.io/politicas-privacidad/calcumed/)
 
 ## Compliance
 These documents are provided to ensure transparency regarding data collection and privacy practices, in accordance with Google Play Developer Program Policies and international regulations (GDPR, CCPA).
