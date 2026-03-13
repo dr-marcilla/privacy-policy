@@ -10,4 +10,4 @@ This repository hosts the official Privacy Policies for my Android applications 
 These documents are provided to ensure transparency regarding data collection and privacy practices, in accordance with Google Play Developer Program Policies and international regulations (GDPR, CCPA).
 
 ---
-*Maintained by [Dr.Marcilla]*
+*Maintained by Dr.Marcilla*
